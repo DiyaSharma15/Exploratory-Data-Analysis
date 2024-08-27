@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Layoffs (2020-2023)
+# Exploratory Data Analysis on Layoffs (2020-2023) Description
 
 This project demonstrates my ability to perform SQL-based exploratory data analysis (EDA) on a dataset containing information about layoffs from March 2020 to March 2023.
 
